@@ -61,7 +61,7 @@
     transition: all 1s;
     font-weight: bold;
 }
-#btn a{
+a{
     text-decoration: none;
     color:white;
 }
