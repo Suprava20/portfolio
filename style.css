@@ -747,7 +747,7 @@ footer{
    max-height: 380px;  
 }
 .user-image{
-    padding: 0.3rem;
+    padding: 0.5rem;
     height: 50%;
     align-items: center;
 }
@@ -892,3 +892,4 @@ footer{
 }
 
 }
+
