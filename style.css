@@ -531,7 +531,7 @@ margin: 0;
     font-weight: 500;
     padding: 4px;
 }
-#submit-btn a:hover{
+#submit-btn:hover{
     color: #001b00;
 }
 #submit-btn a{
