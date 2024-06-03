@@ -624,7 +624,7 @@ footer{
         color: green;
         text-align: center;
         font-size: 35px;
-        margin: 4rem;
+        margin: 2rem;
     }
     .project-container{
         padding: 2px;
@@ -677,6 +677,7 @@ footer{
 .navbar{
     justify-content:space-between;
     width: 100%;
+    margin: 1px;
 
 }
 .nav-items {
@@ -698,6 +699,9 @@ footer{
     justify-content: center;
     align-items: center;
 
+}
+.hero-section-left{
+    margin:1rem;
 }
 .faded-text{
     position: absolute;
@@ -758,8 +762,8 @@ footer{
 
 
 .skills-container{
-    padding: 2rem;
-    margin: 3rem auto;
+    padding: 0.5rem;
+    margin: 1rem auto;
     gap: 10px;
 }
 
